@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636554388 source:e:\codeblocks\repr_grafic_arb_binar\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+
